@@ -1,0 +1,42 @@
+  LINGO/WIN64 21.0.38 (22 Apr 2025), LINDO API 15.0.6099.233
+
+  Licensee info: Eval Use Only
+  License expires: 28 NOV 2025
+
+  Global optimal solution found.
+  Objective value:                              11600.00
+  Infeasibilities:                              0.000000
+  Total solver iterations:                             3
+  Elapsed runtime seconds:                          0.07
+
+  Model Class:                                        LP
+
+  Total variables:                      4
+  Nonlinear variables:                  0
+  Integer variables:                    0
+
+  Total constraints:                    9
+  Nonlinear constraints:                0
+
+  Total nonzeros:                      21
+  Nonlinear nonzeros:                   0
+
+
+
+                                Variable           Value        Reduced Cost
+                                      X1        400.0000            0.000000
+                                      X2        200.0000            0.000000
+                                      X3        400.0000            0.000000
+                                      X4        0.000000            7.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1        11600.00           -1.000000
+                                       2        0.000000           -30.00000
+                                       3        0.000000           -4.000000
+                                       4        300.0000            0.000000
+                                       5        0.000000            5.000000
+                                       6        400.0000            0.000000
+                                       7        200.0000            0.000000
+                                       8        400.0000            0.000000
+                                       9        0.000000            0.000000
+
